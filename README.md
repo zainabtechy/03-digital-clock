@@ -24,7 +24,7 @@ A responsive digital clock built with HTML, CSS, and JavaScript. The application
 
 ## Live Demo
 
-GitHub Pages: ()
+GitHub Pages: (https://zainabtechy.github.io/03-digital-clock/)
 
 ## Source Code
 
