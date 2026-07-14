@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+.clock {
+  font-size: 5rem;
+  padding: 2rem;
+}
+.date {
+  font-size: 1.2rem;
+}
+.greeting {
+  font-size: 2rem;
+  padding-top: 0.5rem;
+}
